@@ -1,0 +1,97 @@
+.HomePage {
+    background-image: url("../images/mountain.png");
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+
+    border: 1px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.deardiaryimg{
+    position: absolute;
+    width: 148px;
+    height: 42px;
+    left: 35px;
+    top: 45px;
+    
+    font-family: 'Bonheur Royale';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    /* identical to box height */
+    
+    
+    color: #A18447;
+}
+
+.add{
+    position: absolute;
+    left: 175px;
+    top: 570px;
+}
+
+.img1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 300px;
+    left: 63px;
+    top: 428px;
+    
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid #ED6841;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.img2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 300px;
+    left: 350px;
+    top: 428px;
+    
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid #ED6841;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.img3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 300px;
+    left: 637px;
+    top: 428px;
+    
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid #B24C47;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.img4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 240px;
+    height: 300px;
+    left: 924px;
+    top: 428px;
+    
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid #B24C47;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
